@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :340: for Floccus bookmark sync browser extension -->
+<!--- highestId :341: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -858,6 +858,9 @@
     </bookmark>
     <bookmark href="https://openclaw.ai/blog/virustotal-partnership" id="340">
       <title>OpenClaw 与 VirusTotal 合作，共同保障技能安全 — OpenClaw 博客</title>
+    </bookmark>
+    <bookmark href="http://127.0.0.1:18789/chat?session=main" id="341">
+      <title>OpenClaw Control</title>
     </bookmark>
   </folder>
   <folder id="10">
