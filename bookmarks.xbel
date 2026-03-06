@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :342: for Floccus bookmark sync browser extension -->
+<!--- highestId :343: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -993,6 +993,9 @@
     </bookmark>
     <bookmark href="https://huggingface.co/learn/deep-rl-course/unit6/hands-on" id="342">
       <title>Advantage Actor Critic (A2C) using Robotics Simulations with Panda-Gym 🤖 - Hugging Face Deep RL Course</title>
+    </bookmark>
+    <bookmark href="https://www.realsenseai.com/products/depth-camera-d435i/?utm_source=chatgpt.com" id="343">
+      <title>D435i - RealSense</title>
     </bookmark>
   </folder>
   <folder id="16">
