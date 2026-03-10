@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :346: for Floccus bookmark sync browser extension -->
+<!--- highestId :347: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1036,6 +1036,9 @@
   </folder>
   <bookmark href="https://mp.weixin.qq.com/s/UbTYut8tPgVm6h3Phoh7IQ" id="346">
     <title>微信公众平台</title>
+  </bookmark>
+  <bookmark href="https://peiyaoqiang.github.io/ChipPilot/#/" id="347">
+    <title>Chipilot AI - Chipilot</title>
   </bookmark>
 </folder>
 <folder id="2">
