@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :347: for Floccus bookmark sync browser extension -->
+<!--- highestId :348: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -868,6 +868,9 @@
     <bookmark href="https://openclaw101.dev/" id="345">
       <title>OpenClaw 101 - Master Your AI Assistant in 7 Days</title>
     </bookmark>
+    <bookmark href="https://fanyi.baidu.com/mtpe-individual/multimodal?ext_channel=pcPinzhuan#/" id="13">
+      <title>百度翻译-您的超级翻译伙伴（文本、文档翻译）</title>
+    </bookmark>
   </folder>
   <folder id="10">
     <title>网站开发</title>
@@ -931,16 +934,13 @@
     <bookmark href="https://sso.hubu.edu.cn/lyuapServer/login?service=https://one.hubu.edu.cn/shiro-cas" id="240">
       <title>认证中心-统一身份认证平台</title>
     </bookmark>
+    <bookmark href="https://www.bilibili.com/" id="12">
+      <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+    </bookmark>
+    <bookmark href="https://www.csdn.net/" id="11">
+      <title>CSDN</title>
+    </bookmark>
   </folder>
-  <bookmark href="https://www.csdn.net/" id="11">
-    <title>CSDN</title>
-  </bookmark>
-  <bookmark href="https://www.bilibili.com/" id="12">
-    <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
-  </bookmark>
-  <bookmark href="https://fanyi.baidu.com/mtpe-individual/multimodal?ext_channel=pcPinzhuan#/" id="13">
-    <title>百度翻译-您的超级翻译伙伴（文本、文档翻译）</title>
-  </bookmark>
   <folder id="14">
     <title>赞同</title>
     <bookmark href="http://172.28.13.250/Citrix/sxnxcsWeb/" id="241">
@@ -1002,6 +1002,9 @@
     </bookmark>
     <bookmark href="https://www.realsenseai.com/products/depth-camera-d435i/?utm_source=chatgpt.com" id="343">
       <title>D435i - RealSense</title>
+    </bookmark>
+    <bookmark href="https://hf-mirror.com/Qwen/collections" id="348">
+      <title>Qwen (Qwen)</title>
     </bookmark>
   </folder>
   <folder id="16">
