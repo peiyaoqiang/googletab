@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :350: for Floccus bookmark sync browser extension -->
+<!--- highestId :351: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -870,6 +870,9 @@
     </bookmark>
     <bookmark href="https://fanyi.baidu.com/mtpe-individual/multimodal?ext_channel=pcPinzhuan#/" id="13">
       <title>百度翻译-您的超级翻译伙伴（文本、文档翻译）</title>
+    </bookmark>
+    <bookmark href="https://open.maic.chat/" id="351">
+      <title>OpenMAIC</title>
     </bookmark>
   </folder>
   <folder id="10">
