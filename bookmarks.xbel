@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :352: for Floccus bookmark sync browser extension -->
+<!--- highestId :356: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -712,9 +712,6 @@
   </folder>
   <folder id="9">
     <title>AI工具</title>
-    <bookmark href="https://kimi.moonshot.cn/chat/cpk0jrpmqu01qncl7hi0" id="199">
-      <title>Kimi.ai - 帮你看更大的世界</title>
-    </bookmark>
     <bookmark href="https://app.amymind.com/mindmap/guide" id="200">
       <title>思维导图ai</title>
     </bookmark>
@@ -732,9 +729,6 @@
     </bookmark>
     <bookmark href="https://chat.deepseek.com/" id="205">
       <title>DeepSeek - 探索未至之境</title>
-    </bookmark>
-    <bookmark href="https://gpu.ai-galaxy.cn/deepseek-web" id="206">
-      <title>deepseek</title>
     </bookmark>
     <folder id="207">
       <title>Ai学习</title>
@@ -820,9 +814,6 @@
     <bookmark href="https://gemini.google.com/" id="215">
       <title>‎Google Gemini</title>
     </bookmark>
-    <bookmark href="https://www.baidu.com/s?ie=utf-8&amp;f=3&amp;rsv_bp=1&amp;rsv_idx=1&amp;tn=baidu&amp;wd=google&amp;fenlei=256&amp;oq=google&amp;rsv_pq=ff1fbfaa00362924&amp;rsv_t=9725N7t9IkDAm50ncJRJQW2bhFsxpnEv3KwO0ANtGQfW8w718Tn7kpaKcVM&amp;rqlang=en&amp;rsv_enter=1&amp;rsv_dl=ts_0&amp;rsv_btype=t&amp;rsv_sug3=7&amp;prefixsug=google&amp;rsp=0" id="216">
-      <title>google_百度搜索</title>
-    </bookmark>
     <bookmark href="https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview" id="217">
       <title>Google AI Studio</title>
     </bookmark>
@@ -873,6 +864,9 @@
     </bookmark>
     <bookmark href="https://open.maic.chat/" id="351">
       <title>OpenMAIC</title>
+    </bookmark>
+    <bookmark href="https://sciclaw.ai/" id="353">
+      <title>SciClaw - AI co-worker for scientific research.</title>
     </bookmark>
   </folder>
   <folder id="10">
@@ -1009,6 +1003,9 @@
     <bookmark href="https://hf-mirror.com/Qwen/collections" id="348">
       <title>Qwen (Qwen)</title>
     </bookmark>
+    <bookmark href="https://github.com/muslim-adedamola/reinforcement-learning-with-kinova/tree/main" id="354">
+      <title>muslim-adedamola/reinforcement-learning-with-kinova: Using Mujoco and Gymansium, RL Training of Kinova robot arm to move from random start position to goal position in the absence of obstacles. Trained on PPO for 50 million and 20 million timesteps.</title>
+    </bookmark>
   </folder>
   <folder id="16">
     <title>船舶审图</title>
@@ -1051,6 +1048,12 @@
   </bookmark>
   <bookmark href="https://www.douyin.com/" id="352">
     <title>抖音-记录美好生活</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?q=gmail&amp;oq=&amp;gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkzMzMyajBqMTWoAgiwAgHxBTIJmUvGahNd8QUyCZlLxmoTXQ&amp;sourceid=chrome&amp;ie=UTF-8" id="355">
+    <title>gmail </title>
+  </bookmark>
+  <bookmark href="https://www.yuque.com/dashboard" id="356">
+    <title>工作台 · 语雀</title>
   </bookmark>
 </folder>
 <folder id="2">
