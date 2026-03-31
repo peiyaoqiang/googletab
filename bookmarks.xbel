@@ -709,95 +709,26 @@
         <title>湖北大学研究生院</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.zhipin.com/web/geek/chat?ka=header-message" id="203">
+      <title>BOSS直聘</title>
+    </bookmark>
   </folder>
   <folder id="9">
     <title>AI工具</title>
     <bookmark href="https://app.amymind.com/mindmap/guide" id="200">
       <title>思维导图ai</title>
     </bookmark>
-    <bookmark href="https://tongyi.aliyun.com/qianwen/?utm_content=se_1017005232" id="201">
-      <title>通义千问</title>
-    </bookmark>
     <bookmark href="https://chat.openai.com/" id="202">
       <title>NewChat</title>
-    </bookmark>
-    <bookmark href="https://www.zhipin.com/web/geek/chat?ka=header-message" id="203">
-      <title>BOSS直聘</title>
     </bookmark>
     <bookmark href="https://metaso.cn/" id="204">
       <title>秘塔AI搜索</title>
     </bookmark>
-    <bookmark href="https://chat.deepseek.com/" id="205">
-      <title>DeepSeek - 探索未至之境</title>
-    </bookmark>
-    <folder id="207">
-      <title>Ai学习</title>
-      <bookmark href="https://blog.csdn.net/chenxy_bwave/article/details/119996001" id="313">
-        <title>Anaconda conda常用命令：从入门到精通_conda list-CSDN博客</title>
-      </bookmark>
-      <bookmark href="https://blog.csdn.net/Wenyuanbo/article/details/119382460" id="314">
-        <title>(conda + pip) 配置各版本 Pytorch 深度学习环境_conda 4.5.4版本-CSDN博客</title>
-      </bookmark>
-      <bookmark href="https://blog.csdn.net/chen565884393/article/details/127905428" id="315">
-        <title>CUDA安装及环境配置——最新详细版-CSDN博客</title>
-      </bookmark>
-      <bookmark href="https://mirror.tuna.tsinghua.edu.cn/help/anaconda/" id="316">
-        <title>anaconda | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror</title>
-      </bookmark>
-      <bookmark href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&amp;O=D" id="317">
-        <title>anacoda清华源</title>
-      </bookmark>
-      <bookmark href="https://pytorch.org/docs/stable/torch.html" id="318">
-        <title>torch — PyTorch 2.6 documentation</title>
-      </bookmark>
-      <bookmark href="https://zh-v2.d2l.ai/" id="319">
-        <title>《动手学深度学习》 — 动手学深度学习 2.0.0 documentation</title>
-      </bookmark>
-      <bookmark href="https://courses.d2l.ai/zh-v2/" id="320">
-        <title>课程安排 - 动手学深度学习课程</title>
-      </bookmark>
-      <bookmark href="https://discuss.d2l.ai/c/chinese-version/16" id="321">
-        <title>Latest 中文版 topics - D2L Discussion</title>
-      </bookmark>
-      <bookmark href="http://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.58268&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false" id="322">
-        <title>A Neural Network Playground</title>
-      </bookmark>
-      <bookmark href="https://www.bilibili.com/video/BV1wW411Y7ai/?spm_id_from=333.337.search-card.all.click&amp;vd_source=ae2b95b8a37d272d55ed6ce3ff7e791b" id="323">
-        <title>【莫烦Python】Python 基础教程_哔哩哔哩_bilibili</title>
-      </bookmark>
-      <bookmark href="https://course.fast.ai/" id="324">
-        <title>Practical Deep Learning for Coders - Practical Deep Learning</title>
-      </bookmark>
-      <bookmark href="https://zh.d2l.ai/" id="325">
-        <title>《动手学深度学习》李木</title>
-      </bookmark>
-      <bookmark href="https://mermaid.live/edit#pako:eNpdkl9v0lAYh7_KyXtNSRE6oBcmG-yvt15pvTihB0qEc0jTZk5CMpfobLTbHNk0cWTOGI2LK1tcjOCcX2bngN_C00NWDHc9fZ739_5O0zZUmE3ABE3TLFphtFqvmRZFqMHYYxM5mNplF69T9QpvMN8zkY1rLrGomqg22HrFwa6H7pdjB6H5hxbwq03-5RVpsYrDr09HO30LHiFNu4sWYrh7KIKB-HYiDs5FGEk0GVxQRkka4ufz0deh-Njnw88JLilcjgOCkO-9ubn6IPbPxtHJKHo7vu7y7WGilpW6KNUJFuEx_3SR4EWFl1SVaZK42JrZuKS85bjQ-0txeM53t2TlBC8rvCLx6LIvF81sWZlceHo39PdZyHde8Oi1CDbFUTD5CMpaTarywXfe256JWlXSmpRu_vT42Ts--CGCLg-nXdbifHF0Goe_3DPGvyM1Mv8fnUH34t6_uqJ3rEIgBTW3boPpuT5JQZO4TRwfoR1HWOA5pEksMOWjTarYb3gWWLQjx1qYPmCseTvpMr_m3B78lo09Uq7LHwZPDUJt4paYTz0wiyoAzDY8ATNn3EkXjTmjYOi5jDGXzWRTsCFf59PFbN7Q9ZxeyBSMTLGTgqdqpZ4u5I3OP1UHGyQ" id="326">
-        <title>Online FlowChart &amp; Diagrams Editor - Mermaid Live Editor</title>
-      </bookmark>
-      <bookmark href="https://pjreddie.com/" id="327">
-        <title>Joseph Redmon - Survival Strategies for the Robot Rebellion</title>
-      </bookmark>
-      <bookmark href="https://www.bilibili.com/video/BV1s3411G7yM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=ae2b95b8a37d272d55ed6ce3ff7e791b" id="328">
-        <title>【完结🎉】UCB CS 61A: Computer Programs, Fall 2020_哔哩哔哩_bilibili</title>
-      </bookmark>
-      <bookmark href="https://cs61a.org/" id="329">
-        <title>CS 61A Summer 2025</title>
-      </bookmark>
-      <bookmark href="https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/project/hog" id="330">
-        <title>Hog | CS自学社区</title>
-      </bookmark>
-      <bookmark href="https://cs61a.org/hw/hw01/" id="331">
-        <title>Homework 1 | CS 61A Summer 2025</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification" id="208">
       <title>Garbage Classification</title>
     </bookmark>
     <bookmark href="https://www.kaggle.com/datasets/wangziang/waste-pictures" id="209">
       <title>waste_pictures</title>
-    </bookmark>
-    <bookmark href="https://www.xiaohongshu.com/explore" id="210">
-      <title>小红书 - 你的生活指南</title>
     </bookmark>
     <bookmark href="https://tingwu.aliyun.com/home" id="211">
       <title>首页 - 通义听悟</title>
@@ -867,6 +798,66 @@
     </bookmark>
     <bookmark href="https://mermaidviewer.com/zh/dashboard" id="358">
       <title>Mermaid Viewer - 在线图表编辑器 | 实时预览与团队协作</title>
+    </bookmark>
+  </folder>
+  <folder id="207">
+    <title>Ai学习</title>
+    <bookmark href="https://blog.csdn.net/chenxy_bwave/article/details/119996001" id="313">
+      <title>Anaconda conda常用命令：从入门到精通_conda list-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/Wenyuanbo/article/details/119382460" id="314">
+      <title>(conda + pip) 配置各版本 Pytorch 深度学习环境_conda 4.5.4版本-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/chen565884393/article/details/127905428" id="315">
+      <title>CUDA安装及环境配置——最新详细版-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://mirror.tuna.tsinghua.edu.cn/help/anaconda/" id="316">
+      <title>anaconda | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror</title>
+    </bookmark>
+    <bookmark href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&amp;O=D" id="317">
+      <title>anacoda清华源</title>
+    </bookmark>
+    <bookmark href="https://pytorch.org/docs/stable/torch.html" id="318">
+      <title>torch — PyTorch 2.6 documentation</title>
+    </bookmark>
+    <bookmark href="https://zh-v2.d2l.ai/" id="319">
+      <title>《动手学深度学习》 — 动手学深度学习 2.0.0 documentation</title>
+    </bookmark>
+    <bookmark href="https://courses.d2l.ai/zh-v2/" id="320">
+      <title>课程安排 - 动手学深度学习课程</title>
+    </bookmark>
+    <bookmark href="https://discuss.d2l.ai/c/chinese-version/16" id="321">
+      <title>Latest 中文版 topics - D2L Discussion</title>
+    </bookmark>
+    <bookmark href="http://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.58268&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false" id="322">
+      <title>A Neural Network Playground</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/video/BV1wW411Y7ai/?spm_id_from=333.337.search-card.all.click&amp;vd_source=ae2b95b8a37d272d55ed6ce3ff7e791b" id="323">
+      <title>【莫烦Python】Python 基础教程_哔哩哔哩_bilibili</title>
+    </bookmark>
+    <bookmark href="https://course.fast.ai/" id="324">
+      <title>Practical Deep Learning for Coders - Practical Deep Learning</title>
+    </bookmark>
+    <bookmark href="https://zh.d2l.ai/" id="325">
+      <title>《动手学深度学习》李木</title>
+    </bookmark>
+    <bookmark href="https://mermaid.live/edit#pako:eNpdkl9v0lAYh7_KyXtNSRE6oBcmG-yvt15pvTihB0qEc0jTZk5CMpfobLTbHNk0cWTOGI2LK1tcjOCcX2bngN_C00NWDHc9fZ739_5O0zZUmE3ABE3TLFphtFqvmRZFqMHYYxM5mNplF69T9QpvMN8zkY1rLrGomqg22HrFwa6H7pdjB6H5hxbwq03-5RVpsYrDr09HO30LHiFNu4sWYrh7KIKB-HYiDs5FGEk0GVxQRkka4ufz0deh-Njnw88JLilcjgOCkO-9ubn6IPbPxtHJKHo7vu7y7WGilpW6KNUJFuEx_3SR4EWFl1SVaZK42JrZuKS85bjQ-0txeM53t2TlBC8rvCLx6LIvF81sWZlceHo39PdZyHde8Oi1CDbFUTD5CMpaTarywXfe256JWlXSmpRu_vT42Ts--CGCLg-nXdbifHF0Goe_3DPGvyM1Mv8fnUH34t6_uqJ3rEIgBTW3boPpuT5JQZO4TRwfoR1HWOA5pEksMOWjTarYb3gWWLQjx1qYPmCseTvpMr_m3B78lo09Uq7LHwZPDUJt4paYTz0wiyoAzDY8ATNn3EkXjTmjYOi5jDGXzWRTsCFf59PFbN7Q9ZxeyBSMTLGTgqdqpZ4u5I3OP1UHGyQ" id="326">
+      <title>Online FlowChart &amp; Diagrams Editor - Mermaid Live Editor</title>
+    </bookmark>
+    <bookmark href="https://pjreddie.com/" id="327">
+      <title>Joseph Redmon - Survival Strategies for the Robot Rebellion</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/video/BV1s3411G7yM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=ae2b95b8a37d272d55ed6ce3ff7e791b" id="328">
+      <title>【完结🎉】UCB CS 61A: Computer Programs, Fall 2020_哔哩哔哩_bilibili</title>
+    </bookmark>
+    <bookmark href="https://cs61a.org/" id="329">
+      <title>CS 61A Summer 2025</title>
+    </bookmark>
+    <bookmark href="https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/project/hog" id="330">
+      <title>Hog | CS自学社区</title>
+    </bookmark>
+    <bookmark href="https://cs61a.org/hw/hw01/" id="331">
+      <title>Homework 1 | CS 61A Summer 2025</title>
     </bookmark>
   </folder>
   <folder id="10">
