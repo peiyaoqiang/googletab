@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :357: for Floccus bookmark sync browser extension -->
+<!--- highestId :358: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -868,8 +868,8 @@
     <bookmark href="https://sciclaw.ai/" id="353">
       <title>SciClaw - AI co-worker for scientific research.</title>
     </bookmark>
-    <bookmark href="https://mermaidviewer.com/editor" id="357">
-      <title>New Diagram | Mermaid Viewer</title>
+    <bookmark href="https://mermaidviewer.com/zh/dashboard" id="358">
+      <title>Mermaid Viewer - 在线图表编辑器 | 实时预览与团队协作</title>
     </bookmark>
   </folder>
   <folder id="10">
