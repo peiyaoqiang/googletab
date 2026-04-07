@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :358: for Floccus bookmark sync browser extension -->
+<!--- highestId :359: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -885,6 +885,9 @@
     </bookmark>
     <bookmark href="https://peiyaoqiang.github.io/ChipPilot/#/" id="347">
       <title>Chipilot AI - Chipilot</title>
+    </bookmark>
+    <bookmark href="https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/myApp?menuId=97458334310914199" id="359">
+      <title>AppGallery Connect</title>
     </bookmark>
   </folder>
   <folder id="14">
