@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :363: for Floccus bookmark sync browser extension -->
+<!--- highestId :364: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -897,6 +897,9 @@
     </bookmark>
     <bookmark href="https://account.xiaomi.com/fe/service/login/password?_locale=zh_CN&amp;_group=DEFAULT&amp;sid=mideveloper&amp;qs=%253Fcallback%253Dhttps%25253A%25252F%25252Fdev.mi.com%25252Fsts%25253Fsign%25253Dqc03z2vU53xJD2ZLfINzpuoWkgI%2525253D%252526followup%25253Dhttps%2525253A%2525252F%2525252Fdev.mi.com%2525252Fcallback%2525253FcallbackUrl%2525253Dhttps%252525253A%252525252F%252525252Fdev.mi.com%252525252Fxiaomihyperos%252525252Fconsole%252525252Fdeveloper%252525252Finfo%2526sid%253Dmideveloper%2526_locale%253Dzh_CN%2526_group%253DDEFAULT&amp;callback=https%3A%2F%2Fdev.mi.com%2Fsts%3Fsign%3Dqc03z2vU53xJD2ZLfINzpuoWkgI%253D%26followup%3Dhttps%253A%252F%252Fdev.mi.com%252Fcallback%253FcallbackUrl%253Dhttps%25253A%25252F%25252Fdev.mi.com%25252Fxiaomihyperos%25252Fconsole%25252Fdeveloper%25252Finfo&amp;_sign=wmnT%2B8FwEgyZD15E0coPFlXNBgk%3D&amp;serviceParam=%7B%22checkSafePhone%22%3Afalse%2C%22checkSafeAddress%22%3Afalse%2C%22lsrp_score%22%3A0.0%7D&amp;showActiveX=false&amp;theme=&amp;needTheme=false&amp;bizDeviceType=" id="363">
       <title>小米账号 - 登录</title>
+    </bookmark>
+    <bookmark href="https://dev.mi.com/xiaomihyperos/console/app-manage/mobile" id="364">
+      <title>管理中心 | 小米澎湃OS开发者平台</title>
     </bookmark>
   </folder>
   <folder id="14">
