@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :359: for Floccus bookmark sync browser extension -->
+<!--- highestId :362: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -887,7 +887,16 @@
       <title>Chipilot AI - Chipilot</title>
     </bookmark>
     <bookmark href="https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/myApp?menuId=97458334310914199" id="359">
-      <title>AppGallery Connect</title>
+      <title>华为APP上架</title>
+    </bookmark>
+    <bookmark href="https://developers.vivo.com/" id="360">
+      <title>vivo开放平台 开发者</title>
+    </bookmark>
+    <bookmark href="https://open.oppomobile.com/new/corporatePayment/enterpriseInformation?STORE_USERNAME=%25E6%2599%25A4%25E6%2582%259F%25E7%25A7%2591%25E6%258A%2580%25EF%25BC%2588%25E4%25B8%258A%25E6%25B5%25B7%25EF%25BC%2589%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8" id="361">
+      <title>OPPO 开放平台-OPPO开发者服务中心</title>
+    </bookmark>
+    <bookmark href="https://account.xiaomi.com/fe/service/identity/verifyCode?mask=4294967296&amp;sid=mideveloper&amp;context=sbKYHci7SIcTwfXTNfgg81iuuk5C8p_cVk0WhSOaK32Dv4AfWcvIjGy_EdIa0NRv_0-pFqaFlYTbGRG8bwz1sfMAv8WRw3LIRdA-sjVVctT68gyMIcQKgFM8RBFN8zAznbiKRf0GR2uq5nt3PP_ggAw5cwW4vavYE-jTntqXz8-E12yFXEwNNdFGl4GHpdpSigmP30Q7vsyLeWZC36g38bnnCsGYkL53dzNOcfA0Of34qalRtktkTMmkshIzjL9Z7uVh03etMgiGvLSxTtNLUMz_aDiaH_8SW7AxHwzHw_wokq03vOBmegO5Q7l48-ne06XX5mWTJrhxIV7qiLKwGepRp0tC9mkgxfYl11RjeQBf6YI0pTz3OOYqvUfIMTt5o2rpQpwrY0-xpdWKkhEMVMWUi11a3U8B8cui6E6cuOd-R-mmtqOYYB4mM2OymMWOy7u0TJrnWKvCVbLsDvYAe8GG8LDp1-pxsWK3gszpng1RQahUZevbM2aD75u9GhQDFnbi7VbERInuBt4eL7magU7AdeyEu-orOZCPX8AJzOHpwxQ5qVLD3NKXDEFYwR3izkniBkB8jk86Sr8QzJIVF1lqYNBflTjbwBG1CMhztMNpM9Wxl1ILfVs97UiUWT2jEHqVnNIw78SfbeHYOTrmeW4owwC1d8A7outPjT9gpu62M5IeE8c0_Gxk0C_XZq0ChZ4iBv3xH9KB5bRDSV4AROutVzU0EFftul6boysX4wwecYJt2ncsUuEHxg7nHdYY5zid7ofX0MMBp8OGXm_KJukD880845kQATEQDkasybbmYErK1YyZ-Zjk9fgGkJ1gc6vC880Wodt40UQcCT81s-aFOZhPl6mC48i6bWJy2zghS3n4-jkAjdSZ8d9tQcJwqdvj3-7U5IOTfMXvhHqJzyWf3mFPAyVCrmx8x03ugy2eX1d5LSumjAoHwMEkIGtwQ9NijBlahRI4YBN3kSk1SSVt7eVW9SD0WEmSneF2X5i9tE40xV4CtOaIeP79vfosByyqEvG0TGvLcgxbOX7ojqVGz-ilZWF3fFb7sY_KcL67RI1o57uft0wu6NoXnJYVu1ZXbUjSiQjHk3-bdDAPslCMNwt-Lxz0IF-9hV_98Az4KmsG8BhcwN820GpGSq-Dfixt0SHRBAuUAtAjc7DLJoGIQAKguBNN62C1F4svQQJ3TN12U9GC7n4WR1I4jpWv6rSllduyPxGBMD7Ab3QKs11gPCXSvGW8yA53UWUeDLQ&amp;_locale=zh_CN" id="362">
+      <title>小米账号安全验证</title>
     </bookmark>
   </folder>
   <folder id="14">
