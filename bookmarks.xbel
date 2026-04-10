@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :365: for Floccus bookmark sync browser extension -->
+<!--- highestId :366: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1018,6 +1018,9 @@
   </bookmark>
   <bookmark href="https://www.google.com/search?q=gmail&amp;oq=&amp;gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkzMzMyajBqMTWoAgiwAgHxBTIJmUvGahNd8QUyCZlLxmoTXQ&amp;sourceid=chrome&amp;ie=UTF-8" id="355">
     <title>gmail</title>
+  </bookmark>
+  <bookmark href="https://518gpt.asia/" id="366">
+    <title>购物 - 518AI官网</title>
   </bookmark>
 </folder>
 <folder id="2">
