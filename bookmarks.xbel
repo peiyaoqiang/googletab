@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :368: for Floccus bookmark sync browser extension -->
+<!--- highestId :369: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1027,6 +1027,9 @@
   </bookmark>
   <bookmark href="https://518gpt.asia/" id="366">
     <title>购物 - 518AI官网</title>
+  </bookmark>
+  <bookmark href="https://wiki.friendlyelec.com/wiki/index.php/Template:RockchipUnbrick" id="369">
+    <title>模板：RockchipUnbrick - FriendlyELEC Wiki</title>
   </bookmark>
 </folder>
 <folder id="2">
