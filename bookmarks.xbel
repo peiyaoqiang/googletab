@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :370: for Floccus bookmark sync browser extension -->
+<!--- highestId :371: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1033,6 +1033,9 @@
   </bookmark>
   <bookmark href="https://www.t-firefly.com/doc/download/3.html" id="370">
     <title>Firefly | 让科技更简单，让生活更智能</title>
+  </bookmark>
+  <bookmark href="https://redmine.rock-chips.com/urllist" id="371">
+    <title>Rockchip 固件下载</title>
   </bookmark>
 </folder>
 <folder id="2">
