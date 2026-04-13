@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :372: for Floccus bookmark sync browser extension -->
+<!--- highestId :373: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -417,6 +417,9 @@
     </bookmark>
     <bookmark href="https://imageresizer.com/zh/%E8%A3%81%E5%89%AA%E5%9B%BE%E5%83%8F/%E7%BC%96%E8%BE%91" id="372">
       <title>裁剪图像 - 免费快速在线图像裁剪工具</title>
+    </bookmark>
+    <bookmark href="https://www.iloveimg.com/zh-cn/crop-image?t=cnv1mn48w5h527q97kqcw9khp7hsqm2rc7zfsb3kfnjqtctxvyqvk4yf4l9lm9A6111yx6pc1cyg96m8475cfwlw8wl6xjw4klw8kl5ypvgcn4xqj072fdt059Ah9bhvv0nghvh1rm18xb3pmh7fA8gxdl5887t1gjA1A1b9n15kb9vzz3h1&amp;w=6" id="373">
+      <title>免费在线裁剪图像文件</title>
     </bookmark>
   </folder>
   <folder id="6">
