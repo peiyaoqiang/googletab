@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :371: for Floccus bookmark sync browser extension -->
+<!--- highestId :372: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -414,6 +414,9 @@
     </bookmark>
     <bookmark href="https://wap.roogoo.shop/card" id="367">
       <title>U卡 - Roogoo</title>
+    </bookmark>
+    <bookmark href="https://imageresizer.com/zh/%E8%A3%81%E5%89%AA%E5%9B%BE%E5%83%8F/%E7%BC%96%E8%BE%91" id="372">
+      <title>裁剪图像 - 免费快速在线图像裁剪工具</title>
     </bookmark>
   </folder>
   <folder id="6">
