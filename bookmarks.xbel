@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :377: for Floccus bookmark sync browser extension -->
+<!--- highestId :378: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -771,6 +771,9 @@
     </bookmark>
     <bookmark href="https://ai-draw-nexus.aizhi.site/" id="376">
       <title>AI-Draw-Nexus</title>
+    </bookmark>
+    <bookmark href="https://bigmodel.cn/console/overview" id="378">
+      <title>智谱AI开放平台</title>
     </bookmark>
   </folder>
   <folder id="207">
