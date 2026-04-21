@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :379: for Floccus bookmark sync browser extension -->
+<!--- highestId :380: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -777,6 +777,9 @@
     </bookmark>
     <bookmark href="https://play.google.com/console/signup" id="379">
       <title>创建开发者账号</title>
+    </bookmark>
+    <bookmark href="https://www.upscale.media/zh/upload" id="380">
+      <title>上传图像以放大与增强 | Upscale.media</title>
     </bookmark>
   </folder>
   <folder id="207">
