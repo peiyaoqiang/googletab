@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :380: for Floccus bookmark sync browser extension -->
+<!--- highestId :384: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -424,6 +424,9 @@
     <bookmark href="https://api.mczbc.cn/" id="374">
       <title>New API</title>
     </bookmark>
+    <bookmark href="https://co2.cnki.net/Main.html?dp=tyut&amp;r=1777357622910" id="381">
+      <title>大学生毕业论文（设计）管理系统</title>
+    </bookmark>
   </folder>
   <folder id="6">
     <title>3D</title>
@@ -781,6 +784,9 @@
     <bookmark href="https://www.upscale.media/zh/upload" id="380">
       <title>上传图像以放大与增强 | Upscale.media</title>
     </bookmark>
+    <bookmark href="https://www.datawhale.cn/learn?learnPage=1&amp;keywords=" id="382">
+      <title>Datawhale-AI课程</title>
+    </bookmark>
   </folder>
   <folder id="207">
     <title>Ai学习</title>
@@ -841,6 +847,15 @@
     <bookmark href="https://cs61a.org/hw/hw01/" id="331">
       <title>Homework 1 | CS 61A Summer 2025</title>
     </bookmark>
+    <folder id="124">
+      <title>文献</title>
+      <bookmark href="https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/" id="304">
+        <title>湖大vpn</title>
+      </bookmark>
+      <bookmark href="https://ieeexplore.ieee.org/abstract/document/6362137" id="305">
+        <title>Scalable Network Virtualization in Software-Defined Networks | IEEE Journals &amp; Magazine | IEEE Xplore</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="10">
     <title>网站开发</title>
@@ -1006,6 +1021,12 @@
     <bookmark href="https://github.com/muslim-adedamola/reinforcement-learning-with-kinova/tree/main" id="354">
       <title>muslim-adedamola/reinforcement-learning-with-kinova: Using Mujoco and Gymansium, RL Training of Kinova robot arm to move from random start position to goal position in the absence of obstacles. Trained on PPO for 50 million and 20 million timesteps.</title>
     </bookmark>
+    <bookmark href="https://wandb.ai/p488711742-hubei-university" id="383">
+      <title>Weights &amp; Biases</title>
+    </bookmark>
+    <bookmark href="https://wandb.ai/p488711742-hubei-university/openpi/runs/wq42bdzu/files?nw=nwuserp488711742" id="384">
+      <title>kinova_a100_train_v1_bs8 | openpi – Weights &amp; Biases</title>
+    </bookmark>
   </folder>
   <folder id="16">
     <title>船舶审图</title>
@@ -1026,15 +1047,6 @@
     </bookmark>
     <bookmark href="http://159.75.158.189:81/" id="263">
       <title>RuoYi-Flowable-Plus开发文档</title>
-    </bookmark>
-  </folder>
-  <folder id="124">
-    <title>文献</title>
-    <bookmark href="https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/" id="304">
-      <title>湖大vpn</title>
-    </bookmark>
-    <bookmark href="https://ieeexplore.ieee.org/abstract/document/6362137" id="305">
-      <title>Scalable Network Virtualization in Software-Defined Networks | IEEE Journals &amp; Magazine | IEEE Xplore</title>
     </bookmark>
   </folder>
   <bookmark href="https://mp.weixin.qq.com/s/UbTYut8tPgVm6h3Phoh7IQ" id="346">
