@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :384: for Floccus bookmark sync browser extension -->
+<!--- highestId :392: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -192,9 +192,6 @@
       <bookmark href="https://htmlcheatsheet.com/css/" id="293">
         <title>CSS Cheat Sheet - Interactive, not a PDF | HTMLCheatSheet.com</title>
       </bookmark>
-      <bookmark href="https://www.w3schools.com/howto/howto_css_switch.asp" id="294">
-        <title>How To Create a Toggle Switch</title>
-      </bookmark>
       <bookmark href="http://cssgridgarden.com/" id="295">
         <title>Grid Garden - A game for learning CSS grid</title>
       </bookmark>
@@ -286,9 +283,6 @@
     <bookmark href="https://www.oschina.net/p/zola" id="76">
       <title>开源中国</title>
     </bookmark>
-    <bookmark href="https://www.135editor.com/beautify_editor.html#" id="78">
-      <title>(4条消息) 135编辑器官网-微信排版编辑器-微信公众号图文排版工具，好用素材多</title>
-    </bookmark>
     <bookmark href="https://api.uomg.com/" id="81">
       <title>UomgAPI - 优启梦免费API数据接口调用服务平台</title>
     </bookmark>
@@ -297,9 +291,6 @@
     </bookmark>
     <bookmark href="https://pan.baidu.com/disk/main?from=homeFlow&amp;login_type=qzone#/index?category=all" id="83">
       <title>百度网盘</title>
-    </bookmark>
-    <bookmark href="https://lightly.teamcode.com/dashboard" id="84">
-      <title>Lightly</title>
     </bookmark>
     <bookmark href="https://ping.chinaz.com/dl.google.com" id="85">
       <title>站长工具</title>
@@ -310,9 +301,6 @@
     <bookmark href="http://tools.liumingye.cn/music_old/?page=searchPage" id="87">
       <title>音乐</title>
     </bookmark>
-    <bookmark href="http://httpbin.org/#/HTTP_Methods/get_get" id="90">
-      <title>httpbin.org</title>
-    </bookmark>
     <bookmark href="https://gamma.app/" id="91">
       <title>All gammas - Gamma</title>
     </bookmark>
@@ -321,9 +309,6 @@
     </bookmark>
     <bookmark href="https://sms-activate.org/cn/freePrice#activation" id="94">
       <title>国外短信验证</title>
-    </bookmark>
-    <bookmark href="https://www.facebook.com/" id="95">
-      <title>(1) Facebook</title>
     </bookmark>
     <bookmark href="https://www.instagram.com/" id="96">
       <title>Instagram</title>
@@ -385,9 +370,6 @@
     <bookmark href="https://shuziyimin.net/account/appleid" id="115">
       <title>美区 Apple ID 注册教程 - 2025年最新亲测可用 (Apple ID转区) | 数字移民指南</title>
     </bookmark>
-    <bookmark href="https://www.kookapp.cn/app/channels/7071388244766171/5596255467093844" id="116">
-      <title>KOOK</title>
-    </bookmark>
     <bookmark href="https://12345.fscloud.homes/#/dashboard" id="117">
       <title>FSCloud</title>
     </bookmark>
@@ -426,6 +408,21 @@
     </bookmark>
     <bookmark href="https://co2.cnki.net/Main.html?dp=tyut&amp;r=1777357622910" id="381">
       <title>大学生毕业论文（设计）管理系统</title>
+    </bookmark>
+    <bookmark href="https://www.135editor.com/beautify_editor.html#" id="385">
+      <title>(4条消息) 135编辑器官网-微信排版编辑器-微信公众号图文排版工具，好用素材多</title>
+    </bookmark>
+    <bookmark href="https://lightly.teamcode.com/dashboard" id="386">
+      <title>Lightly</title>
+    </bookmark>
+    <bookmark href="http://httpbin.org/#/HTTP_Methods/get_get" id="387">
+      <title>httpbin.org</title>
+    </bookmark>
+    <bookmark href="https://www.facebook.com/" id="388">
+      <title>(1) Facebook</title>
+    </bookmark>
+    <bookmark href="https://www.kookapp.cn/app/channels/7071388244766171/5596255467093844" id="389">
+      <title>KOOK</title>
     </bookmark>
   </folder>
   <folder id="6">
@@ -865,38 +862,11 @@
     <bookmark href="https://doc.iocoder.cn/page-feature/#_2-2-mapper-%E6%9F%A5%E8%AF%A2" id="229">
       <title>分页实现 | ruoyi-vue-pro 开发指南</title>
     </bookmark>
-    <folder id="230">
-      <title>电路仿真</title>
-      <bookmark href="https://simulator.io/board" id="332">
-        <title>simulator.io | Anonymous board</title>
-      </bookmark>
-      <bookmark href="https://www.falstad.com/circuit/circuitjs.html" id="333">
-        <title>https://www.falstad.com/circuit/circuitjs.html</title>
-      </bookmark>
-      <bookmark href="https://chatgpt.com/auth/login" id="334">
-        <title>https://chatgpt.com/auth/login</title>
-      </bookmark>
-      <bookmark href="http://www.tylssj.cn/?hideMenu=false" id="335">
-        <title>http://www.tylssj.cn/?hideMenu=false</title>
-      </bookmark>
-      <bookmark href="https://www.falstad.com/circuit/e-index.html" id="336">
-        <title>电子演示</title>
-      </bookmark>
-      <bookmark href="http://www.falstad.com/circuit/directions.html" id="337">
-        <title>http://www.falstad.com/circuit/directions.html</title>
-      </bookmark>
-      <bookmark href="http://127.0.0.1:9090/?hideMenu=false" id="338">
-        <title>http://127.0.0.1:9090/?hideMenu=false</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://element.eleme.cn/#/zh-CN" id="231">
       <title>Element - 网站快速成型工具</title>
     </bookmark>
     <bookmark href="https://mybatis.org/mybatis-3/zh/getting-started.html" id="232">
       <title>mybatis – MyBatis 3 | 入门</title>
-    </bookmark>
-    <bookmark href="https://spring.io/" id="233">
-      <title>Spring | Home</title>
     </bookmark>
     <bookmark href="https://imgtu.com/488711742" id="234">
       <title>488711742 (488711742) - 路过图床</title>
@@ -910,11 +880,14 @@
     <bookmark href="https://html-color-codes.info/chinese/" id="237">
       <title>HTML色彩代码</title>
     </bookmark>
-    <bookmark href="https://mvnrepository.com/artifact/com.github.infiniteautomation/modbus4j/v3.1.0" id="238">
-      <title>Maven 存储库：com.github.infiniteautomation » modbus4j » v3.1.0</title>
+    <bookmark href="https://imgtu.com/488711742" id="390">
+      <title>488711742 (488711742) - 路过图床</title>
     </bookmark>
-    <bookmark href="https://cn.vuejs.org/index.html" id="239">
-      <title>Vue.js</title>
+    <bookmark href="https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&amp;cid=35768" id="391">
+      <title>iconfont-阿里巴巴矢量图标库</title>
+    </bookmark>
+    <bookmark href="https://html-color-codes.info/chinese/" id="392">
+      <title>HTML色彩代码</title>
     </bookmark>
     <bookmark href="https://sso.hubu.edu.cn/lyuapServer/login?service=https://one.hubu.edu.cn/shiro-cas" id="240">
       <title>认证中心-统一身份认证平台</title>
