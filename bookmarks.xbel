@@ -271,9 +271,6 @@
   </folder>
   <folder id="198">
     <title>湖大</title>
-    <bookmark href="https://www.acwing.com/activity/content/11/" id="308">
-      <title>AcWing - 算法基础课</title>
-    </bookmark>
     <bookmark href="https://ai.hubu.edu.cn/index.htm" id="309">
       <title>湖北大学人工智能学院</title>
     </bookmark>
@@ -288,6 +285,9 @@
     </bookmark>
     <bookmark href="https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/" id="304">
       <title>湖大vpn</title>
+    </bookmark>
+    <bookmark href="https://122.204.216.104:32206/#/develop/list" id="245">
+      <title>人工智能平台</title>
     </bookmark>
   </folder>
   <folder id="9">
@@ -550,9 +550,6 @@
   </folder>
   <folder id="15">
     <title>具身智能</title>
-    <bookmark href="https://122.204.216.104:32206/#/develop/list" id="245">
-      <title>人工智能平台</title>
-    </bookmark>
     <bookmark href="https://hf-mirror.com/" id="246">
       <title>HF-Mirror</title>
     </bookmark>
