@@ -8,93 +8,6 @@
   <bookmark href="https://www.baidu.com/" id="3">
     <title>百度</title>
   </bookmark>
-  <folder id="4">
-    <title>学习</title>
-    <bookmark href="https://www.acwing.com/problem/content/1/" id="18">
-      <title>1. A + B - AcWing题库</title>
-    </bookmark>
-    <bookmark href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce#%E6%95%B0%E7%BB%84%E9%87%8C%E6%89%80%E6%9C%89%E5%80%BC%E7%9A%84%E5%92%8C" id="19">
-      <title>MDN</title>
-    </bookmark>
-    <bookmark href="https://www.npmjs.com/" id="20">
-      <title>npm</title>
-    </bookmark>
-    <bookmark href="https://www.coderutil.com/" id="21">
-      <title>程序员盒子 - 助力程序员编程学习提效 官网</title>
-    </bookmark>
-    <bookmark href="https://leetcode-cn.com/" id="22">
-      <title>力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台</title>
-    </bookmark>
-    <bookmark href="https://www.tinkercad.com/things/h4v0f3VzWO8-fantabulous-uusam-kieran/editel?tenant=circuits" id="23">
-      <title>Circuit design Fantabulous Uusam-Kieran | Tinkercad</title>
-    </bookmark>
-    <bookmark href="https://arduinojson.org/v5/assistant/#/step1" id="24">
-      <title>Assistant | ArduinoJson 5</title>
-    </bookmark>
-    <bookmark href="http://www.taichi-maker.com/homepage/esp8266-nodemcu-iot/" id="25">
-      <title>零基础入门学用物联网 – 基础知识篇 – 目录 – 太极创客</title>
-    </bookmark>
-    <bookmark href="https://oktools.net/" id="26">
-      <title>在线工具 - OKTools</title>
-    </bookmark>
-    <bookmark href="https://dev.qweather.com/" id="27">
-      <title>和风天气开发平台 ~ 高效强大的天气API，天气SDK和天气插件</title>
-    </bookmark>
-    <bookmark href="https://www.cnblogs.com/EasonJim/p/7625738.html" id="28">
-      <title>Redis基于Java的客户端SDK收集 - EasonJim - 博客园</title>
-    </bookmark>
-    <bookmark href="http://doc.ruoyi.vip/ruoyi/document/cjjc.html#%E9%9B%86%E6%88%90sharding-jdbc%E5%AE%9E%E7%8E%B0%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8" id="29">
-      <title>插件集成 | RuoYi</title>
-    </bookmark>
-    <bookmark href="https://cron.qqe2.com/" id="30">
-      <title>在线Cron表达式生成器</title>
-    </bookmark>
-    <bookmark href="https://qqe2.com/cron" id="31">
-      <title>JSON在线编辑器-奇Q工具网</title>
-    </bookmark>
-    <bookmark href="https://docs.taosdata.com/get-started/" id="32">
-      <title>立即开始 | TDengine 文档 | 涛思数据</title>
-    </bookmark>
-    <bookmark href="https://vrg123.com/" id="33">
-      <title>PyCharm激活码最新2022永久免费提供_pycharm密钥激活码_Intellijidea激活码_jetbrains相关产品激活码</title>
-    </bookmark>
-    <bookmark href="http://www.javatiku.cn/pycharm/3892.html" id="34">
-      <title>（一键永久激活）PyCharm最新2022.2版本永久激活码（支持全家桶）</title>
-    </bookmark>
-    <bookmark href="https://www.html5plus.org/doc/h5p.html" id="35">
-      <title>HTML5+ API Reference</title>
-    </bookmark>
-    <bookmark href="https://leetcode.com/" id="36">
-      <title>LeetCode - The World&apos;s Leading Online Programming Learning Platform</title>
-    </bookmark>
-    <bookmark href="https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image#web_server_configuration" id="37">
-      <title>Allowing cross-origin use of images and canvas - HTML: HyperText Markup Language | MDN</title>
-    </bookmark>
-    <bookmark href="http://www.luofenming.com/show.aspx?id=ART2022011600001" id="38">
-      <title>Winform(应用技巧)动态创建Button控件-罗分明网络博客</title>
-    </bookmark>
-    <bookmark href="https://hutool.cn/docs/#/core/JavaBean/Bean%E5%B7%A5%E5%85%B7-BeanUtil" id="39">
-      <title>Bean工具-BeanUtil</title>
-    </bookmark>
-    <bookmark href="https://docs.unity.cn/cn/2022.1/Manual/OfflineDocumentation.html" id="40">
-      <title>离线文档 - Unity 手册</title>
-    </bookmark>
-    <bookmark href="http://eiot.sxbaichuan.com/microapp/eiot/layout/proIndex/2301060933285808" id="41">
-      <title>dp-admin-eiot</title>
-    </bookmark>
-    <bookmark href="https://www.itprojects.cn/hardware" id="42">
-      <title>软件+硬件-it项目网</title>
-    </bookmark>
-    <bookmark href="https://www.itprojects.cn/coursecenter" id="43">
-      <title>知识库-it项目网</title>
-    </bookmark>
-    <bookmark href="https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README" id="44">
-      <title>《Python+ESP32快速上手》 说明</title>
-    </bookmark>
-    <bookmark href="https://element-plus.gitee.io/zh-CN/" id="45">
-      <title>一个 Vue 3 UI 框架 | Element Plus</title>
-    </bookmark>
-  </folder>
   <folder id="46">
     <title>法律</title>
     <bookmark href="http://www.gov.cn/fuwu/2018-08/31/content_5317952.htm" id="271">
@@ -138,12 +51,6 @@
     </bookmark>
     <bookmark href="https://api.uixsj.cn/hitokoto/get?type=" id="284">
       <title>https://api.uixsj.cn/hitokoto/get?type=</title>
-    </bookmark>
-    <bookmark href="https://nodtotherhythm.com/make" id="285">
-      <title>面部动画</title>
-    </bookmark>
-    <bookmark href="https://wallhaven.cc/" id="286">
-      <title>Awesome Wallpapers - wallhaven.cc</title>
     </bookmark>
     <bookmark href="http://yemao.in/wenku" id="287">
       <title>野猫网址yemao.in,关注GitHub不迷失 - 领先的免费VIP共享VIP平台</title>
@@ -234,6 +141,9 @@
     </bookmark>
     <bookmark href="https://co2.cnki.net/Main.html?dp=tyut&amp;r=1777357622910" id="381">
       <title>大学生毕业论文（设计）管理系统</title>
+    </bookmark>
+    <bookmark href="https://oktools.net/" id="26">
+      <title>在线工具 - OKTools</title>
     </bookmark>
   </folder>
   <folder id="6">
