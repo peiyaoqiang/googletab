@@ -10,30 +10,6 @@
   </bookmark>
   <folder id="4">
     <title>学习</title>
-    <folder id="17">
-      <title>面试</title>
-      <bookmark href="https://javaguide.cn/" id="264">
-        <title>Java 面试指南 | JavaGuide</title>
-      </bookmark>
-      <bookmark href="https://www.pdai.tech/" id="265">
-        <title>| Java 全栈知识体系</title>
-      </bookmark>
-      <bookmark href="https://www.xiaolincoding.com/" id="266">
-        <title>小林coding</title>
-      </bookmark>
-      <bookmark href="https://www.cyc2018.xyz/" id="267">
-        <title>CS-Notes 面试笔记</title>
-      </bookmark>
-      <bookmark href="https://javabetter.cn/sidebar/sanfene/nixi.html" id="268">
-        <title>面渣逆袭必看，面试题八股文Java基础、Java 集合框架、Java 并发编程、JVM、Spring、Redis、MyBatis、MySQL、操作系统、计算机网络、RocketMQ、分布式、微服务、设计模式、Linux👍 | 二哥的Java进阶之路</title>
-      </bookmark>
-      <bookmark href="https://leetcode.cn/studyplan/top-interview-150/" id="269">
-        <title>面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台</title>
-      </bookmark>
-      <bookmark href="https://www.nowcoder.com/exam/intelligent" id="270">
-        <title>牛客网专项练习_校招题库练习题_行测题库考点考题</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://www.acwing.com/problem/content/1/" id="18">
       <title>1. A + B - AcWing题库</title>
     </bookmark>
@@ -185,39 +161,6 @@
       </bookmark>
       <bookmark href="http://www.sxzwfw.gov.cn/icity/icity/proinfo?code=2600-A-00200-140000-01&amp;i=1" id="292">
         <title>山西政务服务网</title>
-      </bookmark>
-    </folder>
-    <folder id="47">
-      <title>CSS练习</title>
-      <bookmark href="https://htmlcheatsheet.com/css/" id="293">
-        <title>CSS Cheat Sheet - Interactive, not a PDF | HTMLCheatSheet.com</title>
-      </bookmark>
-      <bookmark href="http://cssgridgarden.com/" id="295">
-        <title>Grid Garden - A game for learning CSS grid</title>
-      </bookmark>
-      <bookmark href="http://www.flexboxdefense.com/" id="296">
-        <title>Flexbox Defense</title>
-      </bookmark>
-      <bookmark href="https://flukeout.github.io/" id="297">
-        <title>CSS Diner - Where we feast on CSS Selectors!</title>
-      </bookmark>
-      <bookmark href="https://codepip.com/games/" id="298">
-        <title>Games | Codepip</title>
-      </bookmark>
-      <bookmark href="https://www.aicodehelper.com/" id="299">
-        <title>AICodeHelper AI编程助手:AI代码生成,免费在线生成最佳AI代码</title>
-      </bookmark>
-      <bookmark href="https://css-tricks.com/video-screencasts/211-building-a-paid-subscription-newsletter-with-mailpoet-woocommerce-wordpress/" id="300">
-        <title>CSS-Tricks - CSS-Tricks</title>
-      </bookmark>
-      <bookmark href="https://www.tailwindcss.cn/docs/installation" id="301">
-        <title>安装 - TailwindCSS中文文档 | TailwindCSS中文网</title>
-      </bookmark>
-      <bookmark href="https://developer.android.google.cn/get-started/overview?hl=zh-cn" id="302">
-        <title>构建首个应用  |  Get started  |  Android Developers</title>
-      </bookmark>
-      <bookmark href="https://openai.maqib.cn/" id="303">
-        <title>Tailwind CSS code generator</title>
       </bookmark>
     </folder>
   </folder>
