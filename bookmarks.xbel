@@ -298,6 +298,9 @@
     <bookmark href="https://gs.hubu.edu.cn/" id="312">
       <title>湖北大学研究生院</title>
     </bookmark>
+    <bookmark href="https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/" id="304">
+      <title>湖大vpn</title>
+    </bookmark>
   </folder>
   <folder id="9">
     <title>AI工具</title>
@@ -397,9 +400,6 @@
     <bookmark href="https://play.google.com/console/signup" id="379">
       <title>创建开发者账号</title>
     </bookmark>
-    <bookmark href="https://www.upscale.media/zh/upload" id="380">
-      <title>上传图像以放大与增强 | Upscale.media</title>
-    </bookmark>
     <bookmark href="https://www.datawhale.cn/learn?learnPage=1&amp;keywords=" id="382">
       <title>Datawhale-AI课程</title>
     </bookmark>
@@ -465,15 +465,6 @@
     </bookmark>
     <bookmark href="https://cs61a.org/hw/hw01/" id="331">
       <title>Homework 1 | CS 61A Summer 2025</title>
-    </bookmark>
-  </folder>
-  <folder id="124">
-    <title>文献</title>
-    <bookmark href="https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/" id="304">
-      <title>湖大vpn</title>
-    </bookmark>
-    <bookmark href="https://ieeexplore.ieee.org/abstract/document/6362137" id="305">
-      <title>Scalable Network Virtualization in Software-Defined Networks | IEEE Journals &amp; Magazine | IEEE Xplore</title>
     </bookmark>
   </folder>
   <folder id="10">
