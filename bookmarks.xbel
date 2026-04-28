@@ -403,6 +403,9 @@
     <bookmark href="https://www.datawhale.cn/learn?learnPage=1&amp;keywords=" id="382">
       <title>Datawhale-AI课程</title>
     </bookmark>
+    <bookmark href="https://518gpt.asia/" id="366">
+      <title>购物 - 518AI官网</title>
+    </bookmark>
   </folder>
   <folder id="207">
     <title>Ai学习</title>
@@ -475,18 +478,6 @@
   </folder>
   <folder id="10">
     <title>网站开发</title>
-    <bookmark href="https://www.iocoder.cn/" id="228">
-      <title>芋道源码 —— 纯源码解析博客</title>
-    </bookmark>
-    <bookmark href="https://doc.iocoder.cn/page-feature/#_2-2-mapper-%E6%9F%A5%E8%AF%A2" id="229">
-      <title>分页实现 | ruoyi-vue-pro 开发指南</title>
-    </bookmark>
-    <bookmark href="https://element.eleme.cn/#/zh-CN" id="231">
-      <title>Element - 网站快速成型工具</title>
-    </bookmark>
-    <bookmark href="https://mybatis.org/mybatis-3/zh/getting-started.html" id="232">
-      <title>mybatis – MyBatis 3 | 入门</title>
-    </bookmark>
     <folder id="14">
       <title>赞同</title>
       <bookmark href="http://172.28.13.250/Citrix/sxnxcsWeb/" id="241">
@@ -502,6 +493,18 @@
         <title>CMDB login</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.iocoder.cn/" id="228">
+      <title>芋道源码 —— 纯源码解析博客</title>
+    </bookmark>
+    <bookmark href="https://doc.iocoder.cn/page-feature/#_2-2-mapper-%E6%9F%A5%E8%AF%A2" id="229">
+      <title>分页实现 | ruoyi-vue-pro 开发指南</title>
+    </bookmark>
+    <bookmark href="https://element.eleme.cn/#/zh-CN" id="231">
+      <title>Element - 网站快速成型工具</title>
+    </bookmark>
+    <bookmark href="https://mybatis.org/mybatis-3/zh/getting-started.html" id="232">
+      <title>mybatis – MyBatis 3 | 入门</title>
+    </bookmark>
     <bookmark href="https://imgtu.com/488711742" id="234">
       <title>488711742 (488711742) - 路过图床</title>
     </bookmark>
@@ -655,9 +658,6 @@
   </bookmark>
   <bookmark href="https://www.google.com/search?q=gmail&amp;oq=&amp;gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQkzMzMyajBqMTWoAgiwAgHxBTIJmUvGahNd8QUyCZlLxmoTXQ&amp;sourceid=chrome&amp;ie=UTF-8" id="355">
     <title>gmail</title>
-  </bookmark>
-  <bookmark href="https://518gpt.asia/" id="366">
-    <title>购物 - 518AI官网</title>
   </bookmark>
   <bookmark href="https://wiki.friendlyelec.com/wiki/index.php/Template:RockchipUnbrick" id="369">
     <title>模板：RockchipUnbrick - FriendlyELEC Wiki</title>
