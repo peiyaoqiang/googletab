@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :394: for Floccus bookmark sync browser extension -->
+<!--- highestId :395: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -579,6 +579,9 @@
     </bookmark>
     <bookmark href="https://wandb.ai/p488711742-hubei-university/openpi/runs/wq42bdzu?nw=nwuserp488711742" id="394">
       <title>kinova_a100_train_v1_bs8 | openpi – Weights &amp; Biases</title>
+    </bookmark>
+    <bookmark href="https://oauth.hubei.gov.cn:8443/uias/mainChain.do?appCode=hbsdxscyfcpt&amp;code=90000&amp;checkUser=1&amp;flag=false" id="395">
+      <title>湖北政务服务网</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.yuque.com/dashboard" id="356">
