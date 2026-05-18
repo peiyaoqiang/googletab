@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :395: for Floccus bookmark sync browser extension -->
+<!--- highestId :396: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -586,6 +586,9 @@
   </bookmark>
   <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="213">
     <title>谷歌邮箱</title>
+  </bookmark>
+  <bookmark href="https://wandb.ai/p488711742-hubei-university/openpi?nw=nwuserp488711742" id="396">
+    <title>openpi Workspace – Weights &amp; Biases</title>
   </bookmark>
 </folder>
 <folder id="2">
