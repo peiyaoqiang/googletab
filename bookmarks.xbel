@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :401: for Floccus bookmark sync browser extension -->
+<!--- highestId :403: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -601,6 +601,12 @@
   </bookmark>
   <bookmark href="https://pay.ldxp.cn/order/result/LD260521FN6RGA" id="401">
     <title>订单详情 - 链动小铺</title>
+  </bookmark>
+  <bookmark href="https://pay.ldxp.cn/shop/stoneAI" id="402">
+    <title>石头的小店 - 链动小铺</title>
+  </bookmark>
+  <bookmark href="https://www.meiguodizhi.com/usa-address/hot-city-New-York" id="403">
+    <title>纽约地址生成器 - 美国地址生成器 - 美国身份生成器</title>
   </bookmark>
 </folder>
 <folder id="2">
