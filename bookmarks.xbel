@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :404: for Floccus bookmark sync browser extension -->
+<!--- highestId :405: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -381,6 +381,9 @@
     </bookmark>
     <bookmark href="https://www.meiguodizhi.com/usa-address/hot-city-New-York" id="403">
       <title>纽约地址生成器 - 美国地址生成器 - 美国身份生成器</title>
+    </bookmark>
+    <bookmark href="https://github.com/harry0703/MoneyPrinterTurbo" id="405">
+      <title>harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</title>
     </bookmark>
   </folder>
   <folder id="207">
