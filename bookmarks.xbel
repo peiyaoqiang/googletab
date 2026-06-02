@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :408: for Floccus bookmark sync browser extension -->
+<!--- highestId :410: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -393,6 +393,12 @@
     </bookmark>
     <bookmark href="https://github.com/Master-cai/Research-Paper-Writing-Skills?utm_source=chatgpt.com" id="408">
       <title>Master-cai/Research-Paper-Writing-Skills: Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida&apos;s open notes for Codex, Claude Code, and Gemini.</title>
+    </bookmark>
+    <bookmark href="https://github.com/bohyy/academic-ai-prompt?utm_source=chatgpt.com" id="409">
+      <title>github.com/bohyy/academic-ai-prompt?utm_source=chatgpt.com</title>
+    </bookmark>
+    <bookmark href="https://github.com/Galaxy-Dawn/claude-scholar/blob/codex/README.zh-CN.md" id="410">
+      <title>claude-scholar/README.zh-CN.md at codex · Galaxy-Dawn/claude-scholar</title>
     </bookmark>
   </folder>
   <folder id="207">
